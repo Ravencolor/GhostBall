@@ -28,10 +28,6 @@ Cette application MonkeyBall a été développée avec Unity et C#. Le projet a 
 
 Les contributions sont les bienvenues ! 
 
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
-
 ## Auteurs
 
 - **Raven** - Développeur principal
